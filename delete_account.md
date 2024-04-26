@@ -12,4 +12,4 @@
 
 ## Warning <a name="warning"></a>
 
-> **Note:** This will remove all your data related to your account.
+> **Note:** This will remove your account and all your data.
