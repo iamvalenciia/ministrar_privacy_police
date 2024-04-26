@@ -1,4 +1,4 @@
-# Account Deletion Guide
+# How to Delete Your Account in Ministrar App
 
 ## Table of Contents
 
@@ -13,13 +13,10 @@ This guide will walk you through the steps to delete your account.
 ## Steps <a name="steps"></a>
 
 1. Navigate to your profile.
-   - This is usually found in the top right corner of the screen.
 2. Tap on the 3 dots icon.
-   - This will open a dropdown menu with more options.
 3. Select "Delete Account" from the dropdown menu.
-   - This option is usually located at the bottom of the menu.
 4. Confirm the action.
-   - A popup will appear asking you to confirm the deletion of your account. Click "Yes" to proceed.
+   - A popup will appear asking you to confirm the deletion of your account. Tap "Yes" to proceed.
 
 ![Delete Account Button](./delete_account.png)
 
